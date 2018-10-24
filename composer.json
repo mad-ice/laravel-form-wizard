@@ -1,0 +1,12 @@
+{
+    "name": "mad-ice/laravel-form-wizard",
+    "description": "A form wizard package for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": []
+        }
+    }
+}
